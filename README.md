@@ -40,7 +40,7 @@ src/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/video-player-app.git
+git clone git@github.com:KBB2000/video-pro-tracker.git
 cd video-player-app
 npm install
 npm start
